@@ -1,1 +1,6 @@
-
+{
+    "nmap": {
+        "install_url": "https://raw.githubusercontent.com/CyberJosie/hackpkg-test/main/packages/installers/nmap.sh",
+        "remove_url": "https://raw.githubusercontent.com/CyberJosie/hackpkg-test/main/packages/uninstallers/nmap.sh"
+      }
+}
