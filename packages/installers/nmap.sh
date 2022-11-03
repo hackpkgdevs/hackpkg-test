@@ -1,5 +1,4 @@
 #!/bin/bash
-
 export HACKPKG_INSTALL_SRC="apt";
 
 if [[ "$(uname -n)" == "debian" ]]
